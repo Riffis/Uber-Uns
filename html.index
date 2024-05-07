@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Riffis Mountain - Über Uns</title>
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Arial', sans-serif;
+    color: #000;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  .container {
+    border: 5px solid #000;
+    max-width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  .header {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  .content {
+    margin-top: 20px;
+  }
+  .back-button {
+    background-color: #fff;
+    color: #000;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 30px;
+    border: 2px solid #000;
+    cursor: pointer;
+  }
+  @media (max-width: 768px) {
+    .back-button {
+      display: block;
+      width: 100%;
+      box-sizing: border-box;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <h1>Über Uns</h1>
+  </div>
+  
+  <div class="content">
+    <h2>Riffis Mountain - Ein Symbol der Freiheit und des Abenteuers</h2>
+    <p>Die Kleidungsstücke von Riffis Mountain sind mehr als nur Mode. Sie sind ein Statement, eine Lebenseinstellung, ein Ruf nach Abenteuer und die Verkörperung von Freiheit. Für all jene, die sich ausdrücken und die Welt um sie herum entdecken möchten, bieten unsere Designs die perfekte Harmonie von Stil und Funktion.</p>
+    
+    <h2>Die Amazigh - Unser Herzstück und unsere Inspiration</h2>
+    <p>Unsere Marke schöpft ihre Inspiration aus der tiefen Geschichte und der unverwüstlichen Natur der Amazigh, den freien Menschen Marokkos. Die Amazigh haben Jahrhunderte überdauert, ihre Kultur bewahrt und sich gegen äußere Einflüsse behauptet. Ihre Geschichte ist ein Echo unserer Prinzipien: Authentizität, Vielfalt und Individualität stehen im Mittelpunkt von allem, was wir tun.</p>
+    
+    <h2>Von den Berghängen zu den Stadtstraßen</h2>
+    <p>Ob auf abgelegenen Bergpfaden oder in den pulsierenden Straßen der Stadt, unsere Kleidungsstücke sind entworfen, um Begleiter auf jedem Schritt Ihrer Reise zu sein. Bei Riffis Mountain verweben wir die Energie und Kreativität des urbanen Lebens mit traditionellen Elementen, um Kleidung zu schaffen, die sowohl zeitlos als auch aktuell ist.</p>
+    
+    <h2>Unsere Designs - Eine Hommage an die Hartnäckigkeit</h2>
+    <p>Jedes von uns erschaffene Stück ist eine Hommage an die Hartnäckigkeit und den Geist der Amazigh und spiegelt die Stärke und den Charakter unserer Streetwear-Community wider. Wir zelebrieren durch unsere Kleidung die Geschichten, die uns alle verbinden, und die persönlichen Erlebnisse, die jeden von uns einzigartig machen.</p>
+    
+    <h2>Begleiten Sie uns auf der Reise</h2>
+    <p>Wir laden Sie ein, Teil unserer Gemeinschaft zu werden - eine Gemeinschaft, die Stil mit Bedeutung trägt und die durch Kleidung Ermächtigung findet. Entdecken Sie mit Riffis Mountain eine Welt, in der Mode die Vielschichtigkeit des Lebens widerspiegelt und die Freiheit feiert.</p>
+  </div>
+  
+  <a href="https://linktr.ee/riffis" class="back-button">Zurück</a>
+</div>
+
+</body>
+</html>
